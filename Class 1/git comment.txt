@@ -1,0 +1,27 @@
+git init
+git status
+git add .
+git commit -m""
+git commit -m "project setup init"
+git remote add origin Enter link
+To check = git remote -v
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git branch
+Change branch name = git branch -M new name
+To tell all change will be in main branch = git push -u origin main
+
+Change directory = cd 'File name'
+
+## Upload process to git
+
+cd
+cd 'File name'
+to check hidden file(.git) = ls -a 
+git init
+git status
+git add .
+git commit -m "Add Initial files"
+make repositorie and copy link
+git remote add origin Link
